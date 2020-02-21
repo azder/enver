@@ -1,0 +1,23 @@
+{
+  "name": "@azhder/enver",
+  "version": "0.0.1",
+  "description": "wrapper for dotenv package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "azder <azhder@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azder/enver.git"
+  },
+  "devDependencies": {
+    "@azhder/eslint-config-azder": "0.0.7",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
