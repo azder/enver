@@ -1,6 +1,6 @@
 {
   "name": "@azhder/enver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wrapper for dotenv package",
   "main": "src/index.js",
   "scripts": {

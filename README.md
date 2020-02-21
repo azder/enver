@@ -4,7 +4,7 @@ A wrapper for the dotenv package
 that can return defaults when values are missing.
 
 
-    const enver$ = require('../src/index.js');
+    const enver$ = require('@azhder/enver');
     const {list, val, get, set$, del$} = enver$;
 
     // for bulk configuration
